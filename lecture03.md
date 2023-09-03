@@ -8,12 +8,12 @@
 - APサーバー　puma ver.5.6.5
 - APサーバー停止するとアクセス不可
 　
-　![APサーバー停止後](image/lectureo3_02.png)
+　![APサーバー停止後](image/lecture03_02.png)
 
 - DBサーバーMySQL ver. 8.0.34
 - DBサーバー停止するとアクセス不可
 
-  ![DBサーバー停止後](image/lectureo3_03.png)
+  ![DBサーバー停止後](image/lecture03_03.png)
 
 - Rails 構成管理ツール　bundler
 
